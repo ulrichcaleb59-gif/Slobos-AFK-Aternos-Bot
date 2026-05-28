@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "UnChartedSMP12.aternos.me
-",
+    "ip":"UnChartedSMP12.aternos.me",
     "port": 32719,
     "version": "",
     "try-creative": false
