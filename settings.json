@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "UnChartedSMP12.aternos.me
+",
+    "port": 32719,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +32,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Message one of the admins to get the discord ",
+        "Welcome To the UnchartedSmp",
+        "Thank you for playing"
       ]
     },
     "chat-log": true,
